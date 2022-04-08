@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_add_white_24dp
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id fab
+id image
+id image_name
+id parent_layout
+id progress_bar
+id recycler_view
+layout activity_main
+layout layout_listitem
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.MVVMExampleJava
